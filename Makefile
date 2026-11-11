@@ -34,7 +34,7 @@ endif
 
 #Custom
 # Project Specific
-export TGDSPROJECTNAME = ndstamaboy
+export TGDSPROJECTNAME = ndstamaboy_p2
 export EXECUTABLE_FNAME = $(TGDSPROJECTNAME).nds
 export EXECUTABLE_VERSION_HEADER =	0.1
 export EXECUTABLE_VERSION =	"$(EXECUTABLE_VERSION_HEADER)"

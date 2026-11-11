@@ -88,7 +88,7 @@ typedef enum {
 #define ICON_NUM			8
 
 #define ROM_PATH			"0:/rom.bin"
-#define SAVE_PATH           "0:/ndstamaboy.sav"
+#define SAVE_PATH           "0:/ndstamaboy_p2.sav"
 #endif
 
 //general defs
