@@ -1,16 +1,14 @@
-Note: These sources were based originally from (https://github.com/jeffayle/tamaboy)
-
 ![tamaboy](img/tamaboy_nds.png)
 
 NTR/TWL SDK: TGDS1.65
 
-tamaboy is a [Tamagotchi v1](http://adb.arcadeitalia.net/?mame=tama) emulator
+tamaboy is a Tamagotchi P2 (http://adb.arcadeitalia.net/?mame=tama) emulator
 for Nintendo DS / DSi / 3DS based on [TamaLIB](https://github.com/jcrona/tamalib/).
 
 ## Usage
 
-NTR mode: copy arm7dldi-ntr/ndstamaboy.nds and release/drumSample.ima to SD root/base path.
-TWL mode: copy arm7dldi-twl/ndstamaboy.srl and release/drumSample.ima to SD root/base path.
+NTR mode: copy arm7dldi-ntr/ndstamaboy_p2.nds and release/drumSample.ima to SD root/base path.
+TWL mode: copy arm7dldi-twl/ndstamaboy_p2.srl and release/drumSample.ima to SD root/base path.
 
 The Tamagotchi's Left, Middle and Right buttons are mapped respectively to the
 d-pad Left, Up/Down and Right. Or use the touchscreen controls
@@ -42,6 +40,6 @@ Since this is a TGDS project, you can follow the same steps, as, for example, ht
 Drums intro thanks to Thomas Drachmann - A Short Drum Solo
 
 
-Latest stable release: http://github.com/cotodevel/tamaboy/archive/TGDS1.65.zip
+Latest stable release: http://github.com/cotodevel/tamaboy_p2/archive/TGDS1.65.zip
 
 Coto
